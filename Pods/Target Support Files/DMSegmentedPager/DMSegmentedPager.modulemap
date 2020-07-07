@@ -1,0 +1,6 @@
+framework module DMSegmentedPager {
+  umbrella header "DMSegmentedPager-umbrella.h"
+
+  export *
+  module * { export * }
+}
